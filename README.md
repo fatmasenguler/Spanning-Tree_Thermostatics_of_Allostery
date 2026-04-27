@@ -1,1 +1,1 @@
-# Spanning-Tree_Thermostatics_of_
+# Spanning-Tree Thermostatics of Allostery
